@@ -1,5 +1,5 @@
 </h1><b> Hi there 👋</b></h1><br>
-I'm a Technical Support Specialist based in Tennessee, USA upskilling to be a DevOps/Backend Engineer.
+I'm a Customer Success Manager based in Tennessee, USA upskilling as much as I can!
 
 👁 I’m currently supporting customers giving machines the sense of sight at V7 Labs <br>
 🧠 I'm an avid consumer of media and the form doesn't matter <br>
